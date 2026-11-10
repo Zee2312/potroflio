@@ -1,0 +1,15 @@
+=====personal information=====
+name : Zainab ayman
+title : web developer
+bio : passionate about creating responsive, user-friendly websites and continuously improving technical skills
+
+=====skills======
+HTML5 , css3 , javascript ,angular, git 
+
+======projects=======
+-Aswan Loom eCommerce web page
+-today to-do-list web application 
+
+=======contact=====
+email : zeianbayman23@gmail.com
+GitHub : https://github.com/Zee2312
